@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Thesis data files — not for public upload
+Data/
+Rasters/
+Outputs/
+*.tif
+*.csv
+*.rds
