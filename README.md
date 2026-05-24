@@ -9,7 +9,7 @@ This repository contains the R analysis script for a master's thesis investigati
 
 Repository Contents
 
-SSF_Clean.R — the full analysis script, including raw data processing, model fitting, RSS visualisation, step length analysis, habitat suitability mapping, KDE home ranges, and zonal statistics
+SSF_Methodology.R — the full analysis script, including raw data processing, model fitting, RSS visualisation, step length analysis, habitat suitability mapping, KDE home ranges, and zonal statistics
 
 
 R Version and Required Packages
